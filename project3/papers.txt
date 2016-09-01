@@ -1,0 +1,3 @@
+EIE: Efficient Inference Engine on Compressed
+Deep Neural Network - 2016 - ISCA
+https://www.researchgate.net/publication/301819356_EIE_Efficient_Inference_Engine_on_Compressed_Deep_Neural_Network
