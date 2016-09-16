@@ -5,3 +5,7 @@ https://www.researchgate.net/publication/301819356_EIE_Efficient_Inference_Engin
 Cnvlutin: Ineffectual-Neuron-Free Deep Neural 
 Network Computing - 2016 - ISCA
 http://www.eecg.toronto.edu/~enright/albericio-isca2016.pdf
+
+Bit-Plane Compression: Transforming Data for Better Compression 
+in Many-core Architectures - 2016 - ISCA
+http://mbsullivan.info/attachments/papers/kim2016bpc.pdf
