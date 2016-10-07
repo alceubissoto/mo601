@@ -17,3 +17,7 @@ http://web.stanford.edu/~cdel/2016.isca.dhdl.pdf
 Cross-Architecture Performance Prediction (XAPP)
 Using CPU Code to Predict GPU Performance - 2015 - MICRO
 http://research.cs.wisc.edu/vertical/papers/2015/micro15-xapp.pdf
+
+Accelerating Dependent Cache Misses with an
+Enhanced Memory Controller - 2016 - ISCA
+https://users.ece.cmu.edu/~omutlu/pub/enhanced-memory-controller-for-dependent-loads_isca16.pdf
