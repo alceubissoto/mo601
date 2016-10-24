@@ -1,0 +1,8 @@
+1- Para gerar os resultados do toy benchmark, deve-se setar as variáveis de ambiente PROJECT2 com o diretório onde estão os resultados da análise feita pelo PIN, e o PIN_HOME com o diretório do pin, e rodar o script run_bench.sh.
+2- Os arquivos já compilados do pin são:
+      file_project2_4k='project2_4k.so'
+      file_project2_4mb='project2_4mb.so'
+3- Os gráficos foram feitos utilizando o plotly, e o código usado está em graph.py
+4- As pintools utilizadas para cache de 4k e 4mb respectivamente são project2_4k.cpp e project2_4mb.cpp.
+5 - O csv foi gerado utilizando o script generate_csv.sh. Para rodá-lo, basta executá-lo na mesma pasta que estão os arquivos de resultado.
+
